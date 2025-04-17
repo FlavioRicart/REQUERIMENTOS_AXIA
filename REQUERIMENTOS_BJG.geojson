@@ -5,21 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [-52.14121611099995, -16.367667499999925, 100],
-            [-52.14121611099995, -16.393153888999905, 100],
-            [-52.12015944399991, -16.393153888999905, 100],
-            [-52.12015944399991, -16.380901110999957, 100],
-            [-52.11601222199994, -16.380901110999957, 100],
-            [-52.11601222199994, -16.36770555599992, 100],
-            [-52.12100777799992, -16.36770555599992, 100],
-            [-52.12100777799992, -16.34885749999995, 100],
-            [-52.130715832999954, -16.34885749999995, 100],
-            [-52.130715832999954, -16.367667499999925, 100],
-            [-52.14121611099995, -16.367667499999925, 100]
-          ]
-        ]
+        "coordinates": [[[-52.14121611099995,-16.367667499999925,100],[-52.14121611099995,-16.393153888999905,100],[-52.12015944399991,-16.393153888999905,100],[-52.12015944399991,-16.380901110999957,100],[-52.11601222199994,-16.380901110999957,100],[-52.11601222199994,-16.36770555599992,100],[-52.12100777799992,-16.36770555599992,100],[-52.12100777799992,-16.34885749999995,100],[-52.130715832999954,-16.34885749999995,100],[-52.130715832999954,-16.367667499999925,100],[-52.14121611099995,-16.367667499999925,100]]]
       },
       "properties": {
         "name": "861.336/2021",
@@ -56,19 +42,127 @@
       },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [-52.0769453, -16.3933028],
-            [-52.1756631, -16.3933025],
-            [-52.1756631, -16.4074069],
-            [-52.1659375, -16.4074069],
-            [-52.1659375, -16.4076647],
-            [-52.1573514, -16.4076647],
-            [-52.1573514, -16.4104417],
-            [-52.0769453, -16.4104417],
-            [-52.0769453, -16.3933028]
-          ]
-        ]
+        "coordinates": [[[-52.0769453,-16.3933028],[-52.1756631,-16.3933025],[-52.1756631,-16.4074069],[-52.1659375,-16.4074069],[-52.1659375,-16.4076647],[-52.1573514,-16.4076647],[-52.1573514,-16.4104417],[-52.0769453,-16.4104417],[-52.0769453,-16.3933028]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "812.488/1974",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>812.488/1974</td></tr><tr><td>NUP</td><td>27206.812.488/1974-26</td></tr><tr><td>Area (ha)</td><td>1000</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Bloqueio Administrativo - CPRM - Serviço Geológico Brasileiro</td></tr><tr><td>Grupo Commodity</td><td>Metais Não Ferrosos</td></tr><tr><td>Grupo Substância</td><td>Cobre</td></tr><tr><td>Substancia</td><td>Cobre</td></tr><tr><td>Requerente</td><td>Companhia de Pesquisa de Recursos Minerais Cprm</td></tr><tr><td>CPF/CNPJ</td><td>00.091.652/0001-89</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Piranhas</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>Licença Ambiental</td></tr><tr><td>Ultimo Evento</td><td>1397 - Aut Pesq/Licença Ambiental Protocolizada</td></tr><tr><td>Data Ultimo Evento</td><td>22/08/2023</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>17/04/2025</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "altitudeMode": "clampToGround",
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-52.149467862999927,-16.410478132999913,100.0],[-52.102657080999904,-16.410473024999931,100.0],[-52.1026528,-16.428545922999945,100.0],[-52.149467906999917,-16.42855103699992,100.0],[-52.149467862999927,-16.410478132999913,100.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "861.339/2021",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>861.339/2021</td></tr><tr><td>NUP</td><td>48061.861.339/2021-20</td></tr><tr><td>Area (ha)</td><td>1939.79</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Prorrogação do Alvará em Análise</td></tr><tr><td>Grupo Commodity</td><td>Metais Não Ferrosos</td></tr><tr><td>Grupo Substância</td><td>Cobre</td></tr><tr><td>Substancia</td><td>Minério De Cobre</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Piranhas</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>Licenças e Autorizações</td></tr><tr><td>Ultimo Evento</td><td>265 - Aut Pesq/Prorrogação Prazo Alvará Solicitado</td></tr><tr><td>Data Ultimo Evento</td><td>23/07/2024</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>17/04/2025</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "altitudeMode": "clampToGround",
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-52.076945277999926,-16.412030555999934,100.0],[-52.076945277999926,-16.440789443999904,100.0],[-52.161886110999944,-16.440789443999904,100.0],[-52.161886110999944,-16.431449443999952,100.0],[-52.1619936109999,-16.431449443999952,100.0],[-52.1619936109999,-16.430256666999924,100.0],[-52.161886110999944,-16.430256666999924,100.0],[-52.161886110999944,-16.430053888999907,100.0],[-52.157351666999944,-16.430053888999907,100.0],[-52.157351666999944,-16.41045861099991,100.0],[-52.149467777999917,-16.41045861099991,100.0],[-52.149467777999917,-16.410478055999931,100.0],[-52.149467777999917,-16.428551110999933,100.0],[-52.102652777999936,-16.428551110999933,100.0],[-52.102652777999936,-16.42854583299993,100.0],[-52.102652777999936,-16.410441943999956,100.0],[-52.076945277999926,-16.410441943999956,100.0],[-52.076945277999926,-16.412030555999934,100.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "861.036/2021",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>861.036/2021</td></tr><tr><td>NUP</td><td>48061.861.036/2021-15</td></tr><tr><td>Area (ha)</td><td>1926.55</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Prorrogação do Alvará em Análise</td></tr><tr><td>Grupo Commodity</td><td>Metais Não Ferrosos</td></tr><tr><td>Grupo Substância</td><td>Cobre</td></tr><tr><td>Substancia</td><td>Minério De Cobre</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Caiapônia</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>Licenças e Autorizações</td></tr><tr><td>Ultimo Evento</td><td>265 - Aut Pesq/Prorrogação Prazo Alvará Solicitado</td></tr><tr><td>Data Ultimo Evento</td><td>23/07/2024</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>17/04/2025</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "altitudeMode": "clampToGround",
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-52.097636110999929,-16.446342499999957,100.0],[-52.049065,-16.446342499999957,100.0],[-52.049065,-16.479907777999927,100.0],[-52.097636110999929,-16.479907777999927,100.0],[-52.097636110999929,-16.446342499999957,100.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "861.260/2022",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>861.260/2022</td></tr><tr><td>NUP</td><td>48061.861.260/2022-80</td></tr><tr><td>Area (ha)</td><td>1225.59</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Alvará de Pesquisa Vigente</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos</td></tr><tr><td>Grupo Substância</td><td>Ouro</td></tr><tr><td>Substancia</td><td>Ouro</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Piranhas</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>TAH</td></tr><tr><td>Ultimo Evento</td><td>264 - Aut Pesq/Pagamento Tah Efetuado</td></tr><tr><td>Data Ultimo Evento</td><td>22/07/2024</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>17/04/2025</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "altitudeMode": "clampToGround",
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-51.991988888999913,-16.391996388999928,100.0],[-51.991988888999913,-16.395614443999932,100.0],[-51.988025555999911,-16.395614443999932,100.0],[-51.988025555999911,-16.40242388899992,100.0],[-51.977538888999902,-16.40242388899992,100.0],[-51.977538888999902,-16.425622777999934,100.0],[-51.977538888999902,-16.430646666999905,100.0],[-51.996875555999907,-16.430646666999905,100.0],[-51.996875555999907,-16.426390832999914,100.0],[-51.996875555999907,-16.423921388999929,100.0],[-52.003124166999953,-16.423921388999929,100.0],[-52.003124166999953,-16.417049166999959,100.0],[-52.007209721999914,-16.417049166999959,100.0],[-52.007209721999914,-16.417033888999924,100.0],[-52.007209721999914,-16.41471277799991,100.0],[-52.009490832999916,-16.41471277799991,100.0],[-52.009490832999916,-16.410911388999921,100.0],[-52.017040277999911,-16.410911388999921,100.0],[-52.017040277999911,-16.409143332999918,100.0],[-52.012214443999937,-16.409143332999918,100.0],[-52.012214443999937,-16.40483444399996,100.0],[-52.017040277999911,-16.40483444399996,100.0],[-52.017040277999911,-16.396928610999908,100.0],[-52.012554166999905,-16.396928610999908,100.0],[-52.007698055999924,-16.396928610999908,100.0],[-52.005378610999912,-16.396928610999908,100.0],[-52.001895832999935,-16.396928610999908,100.0],[-52.001895832999935,-16.394372777999934,100.0],[-52.001895832999935,-16.390764166999929,100.0],[-51.991988888999913,-16.390764166999929,100.0],[-51.991988888999913,-16.391996388999928,100.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "861.351/2021",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>861.351/2021</td></tr><tr><td>NUP</td><td>48061.861.351/2021-34</td></tr><tr><td>Area (ha)</td><td>1998.1</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Alvará de Pesquisa Vigente</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos</td></tr><tr><td>Grupo Substância</td><td>Ouro</td></tr><tr><td>Substancia</td><td>Minério De Ouro</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Piranhas</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>Comunicações</td></tr><tr><td>Ultimo Evento</td><td>209 - Aut Pesq/Inicio De Pesquisa Comunicado</td></tr><tr><td>Data Ultimo Evento</td><td>05/03/2025</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>17/04/2025</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "altitudeMode": "clampToGround",
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-52.032131110999956,-16.356254443999944,100.0],[-52.032131110999956,-16.376249166999912,100.0],[-52.0288661109999,-16.376249166999912,100.0],[-52.0288661109999,-16.385342777999938,100.0],[-52.065962777999914,-16.385342777999938,100.0],[-52.065962777999914,-16.376191666999944,100.0],[-52.076945,-16.376191666999944,100.0],[-52.076945,-16.368008332999921,100.0],[-52.067062777999922,-16.368008332999921,100.0],[-52.067062777999922,-16.372528332999934,100.0],[-52.06596305599993,-16.372528332999934,100.0],[-52.0658,-16.372528332999934,100.0],[-52.0658,-16.340165,100.0],[-52.049639443999922,-16.340165,100.0],[-52.02888472199993,-16.340165277999915,100.0],[-52.02888472199993,-16.356254443999944,100.0],[-52.032131110999956,-16.356254443999944,100.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "861.326/2021",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>861.326/2021</td></tr><tr><td>NUP</td><td>48061.861.326/2021-51</td></tr><tr><td>Area (ha)</td><td>373.86</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Alvará de Pesquisa Vigente</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos, Fertilizantes E Sais</td></tr><tr><td>Grupo Substância</td><td>Ouro, Fosfato</td></tr><tr><td>Substancia</td><td>Minério De Ouro, Fosfato</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Bom Jardim De Goiás</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>Comunicações</td></tr><tr><td>Ultimo Evento</td><td>209 - Aut Pesq/Inicio De Pesquisa Comunicado</td></tr><tr><td>Data Ultimo Evento</td><td>05/03/2025</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>17/04/2025</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "altitudeMode": "clampToGround",
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-52.0658,-16.340165277999915,100.0],[-52.065800277999926,-16.372528332999934,100.0],[-52.06596305599993,-16.372528332999934,100.0],[-52.067063055999938,-16.372528332999934,100.0],[-52.067063055999938,-16.368008332999921,100.0],[-52.076945277999926,-16.368008332999921,100.0],[-52.076945277999926,-16.359080555999924,100.0],[-52.076945277999926,-16.340149721999921,100.0],[-52.0658,-16.340149721999921,100.0],[-52.0658,-16.340165277999915,100.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "861.358/2021",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>861.358/2021</td></tr><tr><td>NUP</td><td>48061.861.358/2021-56</td></tr><tr><td>Area (ha)</td><td>1020.72</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Prorrogação do Alvará em Análise</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos, Fertilizantes E Sais</td></tr><tr><td>Grupo Substância</td><td>Ouro, Fosfato</td></tr><tr><td>Substancia</td><td>Minério De Ouro, Fosfato</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Bom Jardim De Goiás</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>Licenças e Autorizações</td></tr><tr><td>Ultimo Evento</td><td>265 - Aut Pesq/Prorrogação Prazo Alvará Solicitado</td></tr><tr><td>Data Ultimo Evento</td><td>23/07/2024</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>17/04/2025</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "altitudeMode": "clampToGround",
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-52.070922499999938,-16.311051110999927,100.0],[-52.070922499999938,-16.3233,100.0],[-52.049714721999919,-16.3233,100.0],[-52.049714721999919,-16.340149721999921,100.0],[-52.076945277999926,-16.340149721999921,100.0],[-52.076945277999926,-16.338021388999948,100.0],[-52.089202499999942,-16.338021110999932,100.0],[-52.089202499999942,-16.311051110999927,100.0],[-52.070922499999938,-16.311051110999927,100.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "861.330/2021",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>861.330/2021</td></tr><tr><td>NUP</td><td>48061.861.330/2021-19</td></tr><tr><td>Area (ha)</td><td>939.35</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Prorrogação do Alvará em Análise</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos</td></tr><tr><td>Grupo Substância</td><td>Ouro</td></tr><tr><td>Substancia</td><td>Minério De Ouro</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Piranhas</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>Licenças e Autorizações</td></tr><tr><td>Ultimo Evento</td><td>265 - Aut Pesq/Prorrogação Prazo Alvará Solicitado</td></tr><tr><td>Data Ultimo Evento</td><td>23/07/2024</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>17/04/2025</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "altitudeMode": "clampToGround",
+        "tessellate": -1,
+        "extrude": 1,
+        "visibility": -1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-52.0288661109999,-16.340165277999915,100.0],[-52.049639443999922,-16.340165277999915,100.0],[-52.049639443999922,-16.3233,100.0],[-52.049639443999922,-16.301926943999945,100.0],[-52.0288661109999,-16.301926943999945,100.0],[-52.0288661109999,-16.340165277999915,100.0]]]
       }
     }
   ]
