@@ -2,10 +2,6 @@
   "type": "FeatureCollection",
   "features": [
 
-    // =========================
-    // AZUIS (ORIGINAIS)
-    // =========================
-
     {
       "type": "Feature",
       "geometry": {
@@ -37,12 +33,6 @@
         "stroke-opacity": 1
       }
     },
-
-    // (mantive padrão — os outros azuis seguem igual, só cor padronizada)
-
-    // =========================
-    // VERMELHOS (NOVOS)
-    // =========================
 
     {
       "type": "Feature",
