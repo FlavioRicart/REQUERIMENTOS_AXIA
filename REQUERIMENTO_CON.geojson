@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "name": "unificado",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "860.482/1991",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>860.482/1991</td></tr><tr><td>NUP</td><td>27206.860.482/1991-66</td></tr><tr><td>Area (ha)</td><td>9992.07</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Prorrogação do Alvará em Análise</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos</td></tr><tr><td>Grupo Substância</td><td>Ouro</td></tr><tr><td>Substancia</td><td>Ouro</td></tr><tr><td>Requerente</td><td>Mineracao Rio Tocantins Ltda</td></tr><tr><td>CPF/CNPJ</td><td>26.424.747/0001-60</td></tr><tr><td>Municipio</td><td>Conceição Do Tocantins</td></tr><tr><td>UF</td><td>TO</td></tr></tbody></table></body></html>",
+        "fill-opacity": 0.2,
+        "fill": "#ff0000",
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -47.234362407999924, -12.11537818699992, 100 ], [ -47.234362017999956, -12.11533120599995, 100 ], [ -47.23436199999992, -12.115383999999949, 100 ], [ -47.23372699999993, -12.038882999999942, 100 ], [ -47.141919439999924, -12.039567499999919, 100 ], [ -47.142638579999925, -12.129933473999927, 100 ], [ -47.230762657999946, -12.129240746999926, 100 ], [ -47.233401999999955, -12.128659999999911, 100 ], [ -47.23435799999993, -12.128659999999911, 100 ], [ -47.234362407999924, -12.11537818699992, 100 ]]]
+      }
+    },
+
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "860.484/1991",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>860.484/1991</td></tr><tr><td>NUP</td><td>27206.860.484/1991-55</td></tr><tr><td>Area (ha)</td><td>9976.78</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Aguardando Oferta Pública - Título Minerário Cancelado</td></tr></tbody></table></body></html>",
+        "fill-opacity": 0.2,
+        "fill": "#ff0000",
+        "stroke": "#ff0000",
+        "stroke-opacity": 1,
+        "stroke-width": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[ -47.31467555599994, -12.05716416699994, 100 ], [ -47.243065277999904, -12.057749999999942, 100 ], [ -47.244031666999945, -12.173415277999936, 100 ], [ -47.31567277799991, -12.172823610999956, 100 ], [ -47.31467555599994, -12.05716416699994, 100 ]]]
+      }
+    }
+  ]
+}

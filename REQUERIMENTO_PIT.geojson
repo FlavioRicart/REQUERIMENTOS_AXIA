@@ -1,0 +1,69 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -47.363457499999924,
+              -11.331438610999953,
+              100
+            ],
+            [
+              -47.4605327779999,
+              -11.331438610999953,
+              100
+            ],
+            [
+              -47.4605327779999,
+              -11.292257499999948,
+              100
+            ],
+            [
+              -47.412249999999915,
+              -11.292257499999948,
+              100
+            ],
+            [
+              -47.412249999999915,
+              -11.20649166699991,
+              100
+            ],
+            [
+              -47.363457499999924,
+              -11.20649166699991,
+              100
+            ],
+            [
+              -47.363457499999924,
+              -11.292200277999939,
+              100
+            ],
+            [
+              -47.363457499999924,
+              -11.292269999999917,
+              100
+            ],
+            [
+              -47.363457499999924,
+              -11.331438610999953,
+              100
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "864.517/2021",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>864.517/2021</td></tr><tr><td>NUP</td><td>48073.864.517/2021-35</td></tr><tr><td>Area (ha)</td><td>9648.06</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Aguardando Oferta Pública - Area Integralmente Renunciada</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos</td></tr><tr><td>Grupo Substância</td><td>Ouro</td></tr><tr><td>Substancia</td><td>Minério De Ouro</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Almas</td></tr><tr><td>UF</td><td>TO</td></tr><tr><td>Grupo Evento</td><td>Relatórios</td></tr><tr><td>Ultimo Evento</td><td>795 - Aut Pesq/Relatorio Pesq Negativo Apresentado</td></tr><tr><td>Data Ultimo Evento</td><td>21/01/2025</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>22/04/2026</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "fill": "#FF0000",
+        "fill-opacity": 0.2,
+        "stroke": "#FF0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      }
+    }
+  ]
+}

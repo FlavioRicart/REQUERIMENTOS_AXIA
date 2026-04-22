@@ -1,0 +1,94 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -40.19522749999993,
+              -10.920041943999934,
+              100
+            ],
+            [
+              -40.19522749999993,
+              -10.945753332999914,
+              100
+            ],
+            [
+              -40.19400666699994,
+              -10.945753332999914,
+              100
+            ],
+            [
+              -40.19400666699994,
+              -10.954321943999958,
+              100
+            ],
+            [
+              -40.195303888999945,
+              -10.954321943999958,
+              100
+            ],
+            [
+              -40.195303888999945,
+              -10.964744999999937,
+              100
+            ],
+            [
+              -40.19768694399994,
+              -10.964744999999937,
+              100
+            ],
+            [
+              -40.19768694399994,
+              -10.95660388899995,
+              100
+            ],
+            [
+              -40.19768694399994,
+              -10.956229443999916,
+              100
+            ],
+            [
+              -40.20249555599992,
+              -10.956229443999916,
+              100
+            ],
+            [
+              -40.20249555599992,
+              -10.915926666999951,
+              100
+            ],
+            [
+              -40.194065277999925,
+              -10.915926666999951,
+              100
+            ],
+            [
+              -40.194065277999925,
+              -10.920041943999934,
+              100
+            ],
+            [
+              -40.19522749999993,
+              -10.920041943999934,
+              100
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "872.400/2021",
+        "description": "<html><body><table><tbody><tr><td>Processo</td><td>872.400/2021</td></tr><tr><td>NUP</td><td>48062.872.400/2021-54</td></tr><tr><td>Area (ha)</td><td>396.97</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Aguardando Oferta Pública - Area Integralmente Renunciada</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos</td></tr><tr><td>Grupo Substância</td><td>Ouro</td></tr><tr><td>Substancia</td><td>Minério De Ouro</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Ponto Novo</td></tr><tr><td>UF</td><td>BA</td></tr><tr><td>Grupo Evento</td><td>Relatórios</td></tr><tr><td>Ultimo Evento</td><td>318 - Aut Pesq/Relatorio Pesq Não Apv Art 30 Ii Cm Pub</td></tr><tr><td>Data Ultimo Evento</td><td>10/07/2025</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>22/04/2026</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "fill": "#FF0000",
+        "fill-opacity": 0.2,
+        "stroke": "#FF0000",
+        "stroke-width": 5,
+        "stroke-opacity": 1
+      }
+    }
+  ]
+}
