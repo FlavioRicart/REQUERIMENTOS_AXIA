@@ -218,11 +218,11 @@
       "properties": {
         "name": "861.742/2024",
         "description": "<html><body><table><tbody><tr><td>Processo</td><td>861.742/2024</td></tr><tr><td>NUP</td><td>48061.861.742/2024-00</td></tr><tr><td>Area (ha)</td><td>1978.54</td></tr><tr><td>Fase</td><td>Autorização de Pesquisa</td></tr><tr><td>Status Jazida</td><td>Pesquisa Mineral Autorizada - Alvará de Pesquisa Vigente</td></tr><tr><td>Grupo Commodity</td><td>Metais Preciosos</td></tr><tr><td>Grupo Substância</td><td>Ouro</td></tr><tr><td>Substancia</td><td>Minério De Ouro</td></tr><tr><td>Requerente</td><td>Axia Mineracao S.a</td></tr><tr><td>CPF/CNPJ</td><td>44.035.911/0001-20</td></tr><tr><td>Representante Legal</td><td>-</td></tr><tr><td>Responsavel Tecnico</td><td>-</td></tr><tr><td>Municipio</td><td>Faina</td></tr><tr><td>UF</td><td>GO</td></tr><tr><td>Grupo Evento</td><td>TAH</td></tr><tr><td>Ultimo Evento</td><td>264 - Aut Pesq/Pagamento Tah Efetuado</td></tr><tr><td>Data Ultimo Evento</td><td>22/07/2025</td></tr><tr><td>Tipo de Requerimento</td><td>-</td></tr><tr><td>Ativo Sigmine</td><td>Sim</td></tr><tr><td>dataConsulta</td><td>22/04/2026</td></tr><tr><td>Fonte(s)</td><td>Jazida.com</td></tr></tbody></table></body></html>",
+        "fill": "#1E90FF",
         "fill-opacity": 0.2,
-        "fill": "#4169e1",
-        "stroke-opacity": 1,
-        "stroke": "#4169e1",
-        "stroke-width": 2
+        "stroke": "#1E90FF",
+        "stroke-width": 5,
+        "stroke-opacity": 1
       }
     }
   ]
